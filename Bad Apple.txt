@@ -1,5 +1,5 @@
 Console output length per line = 210
-Console output length per line = 50
+Console output total height = 50
 
 ASCII illumination- " .:-=+*#%@"
 ASCII illumination(long)- "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,"^`'. "
