@@ -6,3 +6,5 @@ Requirements: OpenCV and Python (3+)
 Resource used: http://paulbourke.net/dataformats/asciiart/
 
 Adjust the code according to your needs. I personally recorded at 10 fps and sped up the video 3x to have the video at 30fps, since my device couldn't give a better output than 20 or so fps.
+
+# [CHECKOUT MY VIDEO!!!](https://www.youtube.com/watch?v=1Onjx9heU5o)
